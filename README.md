@@ -1,6 +1,8 @@
 <div align="center">
-
-## Welcome to my Personal Portfolio repository!  
+  
+![Org Banner](https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true)
+  
+## Welcome to my Personal Portfolio Repository!  
 This space showcases my journey as a developer, highlighting my skills, projects, 
 
 and contributions across various Python frameworks and technologies.  
