@@ -1,7 +1,6 @@
-# .github
-# My_Profile
+<div align="center">
 
-Welcome to my personal portfolio repository!  
+## Welcome to my Personal Portfolio repository!  
 This space showcases my journey as a developer, highlighting my skills, projects, and contributions across various Python frameworks and technologies.
 
 ## ✨ What You'll Find Here
