@@ -19,10 +19,9 @@ and contributions across various Python frameworks and technologies.
 ## 🚀 Featured Frameworks
 
 Explore my work with:
-- [Django](https://github.com/TINTINCR1/My_Django_Profile)
 - [Flask](https://github.com/TINTINCR1/My_Flask_Profile)
 - [FastAPI](https://github.com/TINTINCR1/My_FastAPI_Profile)
-
+- [Django | **PostgreSQL**](https://github.com/TINTINCR1/My_Django_Profile)
 ## 📫 Connect
 
 Feel free to browse, star, or fork my projects.  
