@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"width="200"/>
+</p>
+
 <div align="center">
-
-![Org Banner](https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true)
-
+  
 # 👋 Welcome to My GitHub Profile  
 
-This is where I showcase my journey as a **developer and tech enthusiast**, covering **web development, data analysis, and automation projects**.
+This is where I showcase my journey as a **developer and tech enthusiast**, 
+
+covering **web development, data analysis, and automation projects**.
 
 ---
 
