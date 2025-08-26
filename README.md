@@ -69,9 +69,10 @@ Explore my work with:
 A simple, shareable **spreadsheet-based portfolio tracker** for quick calculations and asset allocation.
 
 <p align="center">
-  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-26%2017-03-20.png?raw=true"width="300"/>  
-  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"width="100"/> 
-  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"width="100"/> 
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-26%2017-03-20.png?raw=true"width="220"/>  
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-26%2018-28-32.png?raw=true "width="255"/> 
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-26%2018-29-55.png?raw=true "width="210"/> 
+ 
 </p>
 
 *(View-only access enabled.)*
