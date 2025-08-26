@@ -98,7 +98,4 @@ A simple, shareable **spreadsheet-based portfolio tracker** for quick calculatio
 
 > ## Building, Learning, and Sharing One Commit at a time.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=LuisMongeNarvaez&style=flat-square&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisMongeNarvaez&show_icons=true&theme=radical)
-
 </div>
