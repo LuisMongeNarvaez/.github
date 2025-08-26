@@ -65,7 +65,7 @@ Explore my work with:
 - [Flask](https://github.com/TINTINCR1/My_Flask_Profile)
 - [FastAPI](https://github.com/TINTINCR1/My_FastAPI_Profile)
 
-### 📊 [Google Sheets Portfolio Dashboard](https://docs.google.com/spreadsheets/d/18mYSgH1J1LhS4NvLUigd6yUunoZSy6sMpkZnpMUfix0/edit?gid=1453848081#gid=1453848081)
+### 👉 📊 [Google Sheets Portfolio Dashboard](https://docs.google.com/spreadsheets/d/18mYSgH1J1LhS4NvLUigd6yUunoZSy6sMpkZnpMUfix0/edit?gid=1453848081#gid=1453848081)
 A simple, shareable **spreadsheet-based portfolio tracker** for quick calculations and asset allocation.
 
 *(View-only access enabled.)*
