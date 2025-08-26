@@ -58,12 +58,30 @@ A responsive **Portfolio Tracker** built with:
 
 ---
 
-## 🚀 Featured Frameworks
+## 🚀 Featured Frameworks & Projects
 
-Explore my work with:
-- [Django](https://github.com/TINTINCR1/My_Django_Profile)
-- [Flask](https://github.com/TINTINCR1/My_Flask_Profile)
-- [FastAPI](https://github.com/TINTINCR1/My_FastAPI_Profile)
+### Explore my work:
+
+<p align="center">
+  <a href="https://github.com/LuisMongeNarvaez/My_Django_Profile">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUx5RI3jY2JPV3HuxRoHNtNmTYhVHkwAspKQ&s" alt="Django" width="100"/> 
+    <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-19%2012-07-03.png?raw=true" alt="PostgreSQL" width="120"/>
+    <br/>
+    <b>Django | PostgreSQL Portfolio </b>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/LuisMongeNarvaez/My_Flask_Profile">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKHLwqsvfGllqbxbGEwmQV9hrkKv8gC8NrQ&s" alt="Flask" width="100"/>
+    <br/>
+    <b>Flask Portfolio</b>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/LuisMongeNarvaez/My_FastAPI_Profile">
+    <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-18%2010-14-06.png?raw=true" alt="FastAPI" width="100"/>
+    <br/>
+    <b>FastAPI Portfolio</b>
+  </a>
+</p>
 
 ### 👉 📊 [Google Sheets Portfolio Dashboard](https://docs.google.com/spreadsheets/d/18mYSgH1J1LhS4NvLUigd6yUunoZSy6sMpkZnpMUfix0/edit?gid=1453848081#gid=1453848081)
 A simple, shareable **spreadsheet-based portfolio tracker** for quick calculations and asset allocation.
