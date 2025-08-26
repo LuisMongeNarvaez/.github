@@ -6,7 +6,7 @@
 
 This is where I showcase my journey as a **developer and tech enthusiast**—covering **web development, data analysis, and automation projects**.
 
-</div>
+
 
 ---
 
@@ -67,5 +67,7 @@ A simple and effective **spreadsheet-based portfolio tracker** for quick calcula
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LuisMongeNarvaez&style=flat-square&color=blue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisMongeNarvaez&show_icons=true&theme=radical)
+
+</div>
 
 </div>
