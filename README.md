@@ -68,6 +68,12 @@ Explore my work with:
 ### 👉 📊 [Google Sheets Portfolio Dashboard](https://docs.google.com/spreadsheets/d/18mYSgH1J1LhS4NvLUigd6yUunoZSy6sMpkZnpMUfix0/edit?gid=1453848081#gid=1453848081)
 A simple, shareable **spreadsheet-based portfolio tracker** for quick calculations and asset allocation.
 
+<p align="center">
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-26%2017-03-20.png?raw=true"width="300"/>  
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"width="100"/> 
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"width="100"/> 
+</p>
+
 *(View-only access enabled.)*
 
 ---
