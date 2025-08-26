@@ -64,6 +64,12 @@ Explore my work with:
 ### 📊 [Google Sheets Portfolio Dashboard](https://docs.google.com/spreadsheets/d/18mYSgH1J1LhS4NvLUigd6yUunoZSy6sMpkZnpMUfix0/edit?gid=1453848081#gid=1453848081)
 A simple, shareable **spreadsheet-based portfolio tracker** for quick calculations and asset allocation.
 
+## 📊 Portfolio Tracker
+
+[![View Portfolio Tracker](https://your-screenshot-link.com)](https://docs.google.com/spreadsheets/d/18mYSgH1J1LhS4NvLUigd6yUunoZSy6sMpkZnpMUfix0/edit?gid=0#gid=0)
+
+
+
 *(View-only access enabled.)*
 
 ---
